@@ -1,7 +1,7 @@
 Experiment 1: Decentralized Certificate Verification
 Name:prabanjan.m
 reg no: 212224240116
-Aim:
+Aim: 
 To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 
 Algorithm:
